@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Joshua!</h1>
 <h3 align="center">A Backend Developer who makes things work behind the scenes</h3>
